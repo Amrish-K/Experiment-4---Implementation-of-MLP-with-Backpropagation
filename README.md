@@ -119,7 +119,7 @@ Normalize our dataset.
 
 ## PROGRAM :
 ~~~
-Developed by: Amrish K
+Developed by: Amrish R
 Registration No.: 212221040012
 ~~~
 ~~~
