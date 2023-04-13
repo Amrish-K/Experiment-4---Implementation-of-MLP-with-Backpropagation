@@ -164,3 +164,4 @@ print(classification_report(y_test,predictions))
 ![image](https://user-images.githubusercontent.com/130633944/231663798-22cbaaef-7781-438f-bb86-ddd7201eca21.png)
 
 ## RESULT
+Therefore we successfully implemented a Multilayer Perceptron for Multi classification
